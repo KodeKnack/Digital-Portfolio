@@ -100,8 +100,9 @@ I created a polished, modern CV suitable for internship and entry-level opportun
 ## 📁 5. CV Submission
 
 ### Evidence
-[*Screenshot of Blackboard submission confirmation*
+[[*Screenshot of Blackboard submission confirmation*
 ](https://github.com/KodeKnack/Digital-Portfolio/blob/7ef909174c39d6614d4e6c67ecc3a1eaa93c9f71/Screenshot%202025-05-23%20at%2023.55.23.png)
+](https://github.com/KodeKnack/Digital-Portfolio/blob/244f927302d6d0a9bacbcaf60ab4d64138acf021/CV%20Submission.png)
 
 ### STAR Reflection
 
