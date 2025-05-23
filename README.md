@@ -120,6 +120,5 @@ I successfully submitted a complete, up-to-date CV on time, demonstrating my und
 
 ---
 
-📍 **GitHub Repository:** [(https://github.com/KodeKnack/Digital-Portfolio)]  
 
 
