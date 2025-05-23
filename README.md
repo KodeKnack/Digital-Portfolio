@@ -27,7 +27,7 @@ I gained clarity on my direction in software development and began building a st
 ## 📁 2. Skills and Interests
 
 ### Evidence
-*Screenshot of skills inventory or self-assessment form*
+[*Screenshot of skills inventory or self-assessment form*](https://github.com/KodeKnack/Digital-Portfolio/blob/78e8e0757cb3f398320b93a6e3b599d6b28abab4/Career%20development.png)
 
 ### STAR Reflection
 
