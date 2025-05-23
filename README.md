@@ -6,7 +6,7 @@
 ## 📁 1. Career Counselling
 
 ### Evidence
-*Screenshot or image from career counselling session or workbook*
+[*Screenshot of skills inventory or self-assessment form*](https://github.com/KodeKnack/Digital-Portfolio/blob/78e8e0757cb3f398320b93a6e3b599d6b28abab4/Career%20development.png)
 
 ### STAR Reflection
 
@@ -27,7 +27,7 @@ I gained clarity on my direction in software development and began building a st
 ## 📁 2. Skills and Interests
 
 ### Evidence
-[*Screenshot of skills inventory or self-assessment form*](https://github.com/KodeKnack/Digital-Portfolio/blob/78e8e0757cb3f398320b93a6e3b599d6b28abab4/Career%20development.png)
+https://github.com/KodeKnack/Digital-Portfolio/blob/665fb332cc2c23184e01eaf661fac7224e1fdbc9/Skills%20and%20interest.png
 
 ### STAR Reflection
 
@@ -51,7 +51,8 @@ This self-analysis helped me align my skills with roles like Front-End Developer
 ## 📁 3. Personality Assessment
 
 ### Evidence
-*Attach screenshot of 16Personalities or other assessment*
+[*Attach screenshot of 16Personalities or other assessment*
+](https://github.com/KodeKnack/Digital-Portfolio/blob/665fb332cc2c23184e01eaf661fac7224e1fdbc9/Personality%20Assessment.png)
 
 ### STAR Reflection
 
@@ -72,7 +73,8 @@ It helped confirm that I thrive in roles that require structured planning, team 
 ## 📁 4. CV Creation
 
 ### Evidence
-[Fhumulani-Moses-Makungo-FlowCV-Resume-20250430.pdf](Fhumulani-Moses-Makungo-FlowCV-Resume-20250430.pdf)
+[[Fhumulani-Moses-Makungo-FlowCV-Resume-20250430.pdf](Fhumulani-Moses-Makungo-FlowCV-Resume-20250430.pdf)
+](https://github.com/KodeKnack/Digital-Portfolio/blob/665fb332cc2c23184e01eaf661fac7224e1fdbc9/Create%20CV.png)
 
 ### STAR Reflection
 
@@ -98,7 +100,8 @@ I created a polished, modern CV suitable for internship and entry-level opportun
 ## 📁 5. CV Submission
 
 ### Evidence
-*Screenshot of Blackboard submission confirmation*
+[*Screenshot of Blackboard submission confirmation*
+](https://github.com/KodeKnack/Digital-Portfolio/blob/7ef909174c39d6614d4e6c67ecc3a1eaa93c9f71/Screenshot%202025-05-23%20at%2023.55.23.png)
 
 ### STAR Reflection
 
