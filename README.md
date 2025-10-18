@@ -74,7 +74,7 @@ It helped confirm that I thrive in roles that require structured planning, team 
 ## 📁 4. CV Creation
 
 ### Evidence
-[[Fhumulani-Moses-Makungo-FlowCV-Resume-20250430.pdf](Fhumulani-Moses-Makungo-FlowCV-Resume-20250430.pdf)
+[Fhumulani-Moses-Makungo-FlowCV-Resume-20250430.pdf](Fhumulani-Moses-Makungo-FlowCV-Resume-20250430.pdf)}]
 (https://github.com/KodeKnack/Digital-Portfolio/blob/665fb332cc2c23184e01eaf661fac7224e1fdbc9/Create%20CV.png)
 
 ### STAR Reflection
@@ -114,127 +114,245 @@ Once the CV was finalized, I was required to submit it through Blackboard as evi
 The task was to complete the submission process, ensuring the file was properly named, formatted, and submitted before the deadline.
 
 **A – Action:**  
-I reviewed my CV one last time, renamed the file, and submitted it through the Blackboard platform. I took a screenshot of the submission confirmation for record keeping.
+I reviewed my CV one last time, renamed the file, and submitted it through the Blackboard platform. I took a screenshot of the submission confirmation for recordkeeping.
 
 **R – Result:**  
-I successfully submitted a complete, up-to-date CV on time, demonstrating my understanding of formal submission procedures and the importance of presentation in job-seeking.
+I successfully submitted a complete up-to-date CV on time, demonstrating my understanding of formal submission procedures and the importance of presentation in job-seeking.
 
 ---
 
-📁 6. Business Communication
+## 📁 6. Business Communication
 
-Evidence
-	•	Client email: sprint scope clarification (PDF)
-	•	Stand-up notes / Sprint summary (PNG/PDF)
-	•	UI handover checklist to QA (MD/PDF)
-	•	Slide: “React Native release notes – Expo 53” (PDF)
+### Evidence
+## handover checklist to Testers and QA
 
-STAR Reflection
+## *Dev issue submission*
+https://github.com/KodeKnack/Digital-Portfolio/blob/main/Dev%20Issue%20submission%20form%20.pdf
 
-S – Situation:
+## *Issue testing outcomes*
+https://github.com/KodeKnack/Digital-Portfolio/blob/main/Testing%20Outcomes.pdf
+
+### STAR Reflection
+
+**S – Situation:**
 During my internship at Plum Systems, we had a compressed sprint to release a React Native feature built with Expo. Misunderstandings about scope caused rework and risk to the release.
 
-T – Task:
+**T – Task:**
 Clarify scope, align stakeholders (PM, backend, QA), and communicate a single source of truth to reduce churn.
 
-A – Action:
-I drafted a concise scope clarification email summarising user stories, acceptance criteria, and API assumptions. I attached a handover checklist (linting, ESLint/Prettier status, Expo build notes, and test cases) and presented a short slide during stand-up to confirm roles and timelines.
+**A – Action:**
+I drafted a concise acceptance criteria, and handed over, and during stand-up I updated the team to confirm tasks and timelines.
 
-R – Result:
-We reduced back-and-forth messages by ~40% (measured over Slack threads), QA passed on the first round for two UI tickets, and the release shipped on time. I adopted the same email/checklist template for future sprints.
+**R – Result:**
+We reduced back-and-forth messages, QA passed on the first round issue ticket, and the release shipped on time. I adopted the same approach and template for future sprints.
 
-⸻
 
-📁 7. Interview Skills
+## 📁 7. Interview Skills
 
-Evidence
-	•	CV v2 with tracked changes (PDF)
-	•	Cover letter tailored to Front-End role (PDF)
-	•	Answer bank: React, REST, Firebase, State management (MD)
-	•	60–90s elevator pitch script (MD)
+### Evidence
+### *CV v2 with updated changes (PDF)*  
+https://github.com/KodeKnack/Digital-Portfolio/blob/main/Fhumulani-Moses-Makungo-FlowCV-Resume-20251008-2%20(1).pdf	
 
-STAR Reflection
+### *Cover letter tailored to web dev role (PDF)*
+https://github.com/KodeKnack/Digital-Portfolio/blob/main/Project%20Bid%20Web%20Dev%20.pdf
 
-S – Situation:
+### *Answer bank:*
+## 🧠 1. React: Component Architecture & UI Responsiveness
+
+**S – Situation:**  
+While working at Plum Systems, we needed to improve UI responsiveness for a React Native app to support multiple screen sizes.
+
+**T – Task:**  
+Refactor existing components into reusable, responsive units without breaking existing functionality.
+
+**A – Action:**  
+- Introduced a **component** using React Native base components and styled components.  
+- Applied **Flexbox** and **responsive units** for dynamic layouts.  
+- Used ESLint and Prettier to enforce consistency.  
+- Collaborated with the design team to match responsive breakpoints with Figma designs.
+
+**R – Result:**  
+UI load times improved, layout bugs dropped significantly, and future components could be built faster. The improvement was noted during QA testing and added as a metric in my CV.
+
+
+## 🌐 2. REST APIs: Integration & Error Handling
+
+**S – Situation:**  
+Our front-end app required secure integration with a REST API for user data and authentication.
+
+**T – Task:**  
+Implement reliable **data fetching** and error handling to reduce API-related crashes.
+
+**A – Action:**  
+- Used **Axios** with async/await to handle API calls cleanly.  
+- Implemented global error handling with toast notifications and fallback UIs.  
+- Created functions for cleaner service layer code.  
+- Worked with backend developers to document endpoints clearly.
+
+**R – Result:**  
+Reduced API call failures seen by users, improved data loading speed, and improved the debugging process. Error reporting became standardized across screens.
+
+	
+### *60–90s elevator pitch script (MD)*
+## 🎤 Elevator Pitch (75 seconds)
+
+**Present:**  
+“I’m a front-end developer focusing on **React** and **React Native**, currently interning at Plum Systems, where I build and refine UI components for production apps.”
+
+**Past:**  
+“My background includes building responsive components in web development using HTML and PHP.
+
+**Future:**  
+“I’m looking to grow into a front-end or full-stack developer role where I can combine solid state management skills with scalable design practices, contributing to impactful digital products.”
+
+
+### STAR Reflection
+
+**S – Situation:**
 I needed to improve my interview performance for junior Front-End/React roles, especially around state management and API integration.
 
-T – Task:
+**T – Task:**
 Develop concise, structured answers and a clear elevator pitch aligned to React/React Native, Expo, Redux/Context, REST, and Firebase auth/RTDB.
 
-A – Action:
+**A – Action:**
 I created an answer bank using the STAR pattern, rehearsed a 75-second pitch (present-past-future), and recorded two practice sessions. I updated my CV to highlight concrete outcomes (e.g., UI responsiveness, DX improvements with ESLint/Prettier).
 
-R – Result:
+**R – Result:**
 Mock ratings improved from 6/10 to 8.5/10 for “clarity” and “technical depth.” I can now explain Redux vs Context trade-offs and API error handling with practical examples from Plum Systems.
 
-⸻
 
-📁 8. Mock Interview
+## 📁 8. Mock Interview
 
-Evidence
-	•	Mock interview recording (MP4)
-	•	Rubric/score sheet (PNG/PDF)
-	•	Self-critique & improvement plan (MD)
+### Evidence
+### *Mock interview recording (MP4)*
+https://github.com/wil-it2025/cv-tutorial-Fhumu-MO/blob/aa721b4c36890bca02758b8def13cc49e5bcea68/91c0b43c-6d7c-4de2-aad9-85ab72689d95.MP4
 
-STAR Reflection
+### *Interview*
+https://github.com/KodeKnack/Digital-Portfolio/blob/main/Untitled%20copy.pdf
 
-S – Situation:
-In a recorded mock interview for a React/React Native role, I struggled to frame trade-off decisions (e.g., Redux vs Context + useReducer).
+These structured interview responses are based on real situations from my internship at **Plum Systems** for a role I had actually applied for and got an interview.
 
-T – Task:
-Demonstrate structured problem-solving and articulate architectural decisions with examples.
+## 1. Troubleshooting & Debugging Frontend Issues
 
-A – Action:
-I reviewed the recording and timestamped weak answers. I rewrote responses to:
-	•	Explain when Redux is ideal (complex global state, predictable flows, middleware).
-	•	Explain when Context/useReducer is enough (lightweight, localised state).
-I added a concrete example from integrating a Firebase-backed notifications panel and an Expo build pipeline consideration.
+**S – Situation:**  
+During my internship at Plum Systems, I frequently encountered issues when forking new branches in React frontend projects. These issues included dependency mismatches and rendering errors that blocked the app from launching correctly.
 
-R – Result:
-Second mock improved from 65% → 85%. Feedback commended “clear trade-off reasoning” and “linking answers to real project scenarios.”
+**T – Task:**  
+Independently identify and fix these issues without slowing down the sprint or depending heavily on other team members.
 
-⸻
+**A – Action:**  
+- Forked the branch and attempted to run the project locally.  
+- Diagnosed mismatched or missing dependencies as the primary cause.  
+- Used `yarn install` to align dependencies with the project configuration.  
+- Debugged rendering issues by inspecting components, checking responsiveness, and using browser dev tools.  
+- Fixed a specific validation issue where the enquiry form required a phone number even when an email was provided.  
+- Thoroughly tested changes on multiple devices before pushing updates.
 
-📁 9. Professional Networking
+**R – Result:**  
+I resolved issues quickly without blocking the development flow. This built my confidence in debugging React apps and maintaining reliable environments.
 
-Evidence
-	•	LinkedIn profile PDF export (PDF)
-	•	Outreach messages to React/Expo engineers (MD with screenshots)
-	•	Informational interview notes (MD)
+## 2. Communicating Technical Constraints to Stakeholders
 
-STAR Reflection
+**S – Situation:**  
+A stakeholder requested that we modify a certain feature. However, the existing validation logic didn't align with the client's requests, creating a poor user experience.
 
-S – Situation:
-I wanted guidance on Expo 53, CI/CD, and Firebase Cloud Functions to speed up debugging and builds at Plum Systems.
+**T – Task:**  
+Clearly communicate the technical constraint and propose a practical solution that aligns with stakeholder needs.
 
-T – Task:
-Grow a relevant network and secure at least two informational interviews with React/Expo engineers.
+**A – Action:**  
+- Reviewed the validation logic to understand the restriction.  
+- Explained the conflict between the existing setup and user expectations to the team lead.  
+- Proposed a flexible validation rule allowing either a valid email or phone number.  
+- Maintained communication through Git comments and team discussions before implementing.  
+- Thoroughly tested the fix to ensure no regressions.
 
-A – Action:
-I optimised my LinkedIn headline (“Front-End/React & React Native – Expo | Firebase | REST”), posted a short project highlight with GIFs, and sent targeted outreach (3-line message + clear ask). I prepared 6 focused questions (CI/CD choices, EAS, Over-the-Air updates, testing).
+**R – Result:**  
+The updated validation improved usability and aligned the product with stakeholder expectations, all without disrupting the UI framework. It also demonstrated my ability to translate technical issues into business-friendly solutions.
 
-R – Result:
-I secured 3 calls, received a sample EAS config, and learned a quicker release checklist. I implemented one suggestion (separate staging channel builds), which reduced my test feedback loop by ~25%.
+## 3. Problem-Solving Approach Under Technical Pressure
 
-⸻
+**S – Situation:**  
+While building a mobile version of a React app, I faced multiple technical challenges, including layout shifts and rendering inconsistencies on different devices.
 
-📁 10. Workplace Etiquette
+**T – Task:**  
+Efficiently solve issues while minimizing team dependency and avoiding delays.
 
-Evidence
-	•	Team norms & code style doc (MD/PDF)
-	•	Stand-up cadence + progress notes (PNG/PDF)
-	•	PR template screenshot (PNG)
+**A – Action:**  
+- Attempted to resolve problems independently first by reviewing documentation and previous Git commits.  
+- Used Chrome DevTools and device emulators to debug rendering issues.  
+- Adjusted CSS and component structures to improve responsiveness.  
+- Only after trying multiple approaches did I escalate the issue to my team lead — along with a summary of steps I had already taken.
 
-STAR Reflection
+**R – Result:**  
+This independent, structured approach made me more confident in problem-solving, reduced bottlenecks, and saved team time. I also became better at explaining issues clearly when escalation was necessary.
 
-S – Situation:
+
+## 4. Balancing Design Guidelines with Creative Freedom
+
+**S – Situation:**  
+Throughout my internship, I worked on several frontend features, including the React mobile app and a web-based enquiry form.
+
+**T – Task:**  
+Deliver features that are visually consistent while improving functionality and maintainability where possible.
+
+**A – Action:**  
+- Followed the existing design system and reusable UI components to maintain a consistent interface.  
+- Identified areas where slight code structure improvements could enhance maintainability without affecting UI.  
+- Proposed minor UI and code structure refinements through Git pull request comments and team discussions.  
+- Ensured all enhancements aligned with design guidelines.
+
+**R – Result:**  
+I contributed to a cleaner and more user-friendly interface while respecting the design framework. This balance between structure and creativity became one of my strengths as a front-end developer.
+
+
+## 📝 Summary of Key Skills Demonstrated
+
+- **Technical:** React, debugging, React dev tools, browser dev tools, responsive design, form validation, dependency management.  
+- **Collaboration:** Communicating with stakeholders, explaining technical constraints clearly.  
+- **Problem-Solving:** Independent troubleshooting, escalation with clear context.  
+- **Design Adherence:** Respecting design systems while making smart improvements.
+
+## 📁 9. Professional Networking
+
+### Evidence
+## *LinkedIn profile PDF export*
+https://github.com/KodeKnack/Digital-Portfolio/blob/main/Profile%20(1).pdf
+
+## *Technical Interview invite*
+https://github.com/KodeKnack/Digital-Portfolio/blob/main/Screenshot%202025-10-18%20at%2021.52.23.png
+
+## *Outreach messages to devs and recruiters*
+https://github.com/KodeKnack/Digital-Portfolio/blob/main/outreach%20.pdf
+
+### STAR Reflection
+
+**S – Situation:**
+I wanted guidance on navigating the tech job market and getting job posts or opportunities.
+
+**T – Task:**
+Grow a relevant network and secure at least 1 interview with a company. 
+
+**A – Action:**
+I optimised my LinkedIn headline (“Front-End/React & React Native – Expo | Firebase | REST”) and sent targeted outreach. I prepared  questions focused on my interest in the companies and the various roles they have.
+
+**R – Result:**
+I secured 4 interviews overall, received feedback on how to better answer questions on my initial interviews. I implemented the suggestions, and on the last 2 interviews, I passed the first phase and made it to the technical coding interviews. 
+
+## 📁 10. Workplace Etiquette
+
+### Evidence
+https://github.com/KodeKnack/Digital-Portfolio/blob/main/Work%20ettiqutte.pdf
+
+### STAR Reflection
+
+**S – Situation:**
 Our team needed consistent etiquette for code collaboration—PR hygiene, commit messages, and meeting etiquette—while working hybrid.
 
-T – Task:
+**T – Task:**
 Improve reliability and reduce friction in reviews and handovers.
 
-A – Action:
+**A – Action:**
 I adopted the team’s PR template, wrote clear commit messages, responded to comments within 24 hours, and summarised daily progress in stand-up using a “Yesterday/Today/Risks” format. I also followed meeting etiquette (on-time join, agenda, actions).
 
-R – Result:
+**R – Result:**
 PR turnaround time improved from ~3 days to <48 hours, and merge conflicts decreased on shared components. Feedback from my mentor highlighted “professional communication and preparedness.”
