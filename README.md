@@ -121,5 +121,120 @@ I successfully submitted a complete, up-to-date CV on time, demonstrating my und
 
 ---
 
+📁 6. Business Communication
 
+Evidence
+	•	Client email: sprint scope clarification (PDF)
+	•	Stand-up notes / Sprint summary (PNG/PDF)
+	•	UI handover checklist to QA (MD/PDF)
+	•	Slide: “React Native release notes – Expo 53” (PDF)
 
+STAR Reflection
+
+S – Situation:
+During my internship at Plum Systems, we had a compressed sprint to release a React Native feature built with Expo. Misunderstandings about scope caused rework and risk to the release.
+
+T – Task:
+Clarify scope, align stakeholders (PM, backend, QA), and communicate a single source of truth to reduce churn.
+
+A – Action:
+I drafted a concise scope clarification email summarising user stories, acceptance criteria, and API assumptions. I attached a handover checklist (linting, ESLint/Prettier status, Expo build notes, and test cases) and presented a short slide during stand-up to confirm roles and timelines.
+
+R – Result:
+We reduced back-and-forth messages by ~40% (measured over Slack threads), QA passed on the first round for two UI tickets, and the release shipped on time. I adopted the same email/checklist template for future sprints.
+
+⸻
+
+📁 7. Interview Skills
+
+Evidence
+	•	CV v2 with tracked changes (PDF)
+	•	Cover letter tailored to Front-End role (PDF)
+	•	Answer bank: React, REST, Firebase, State management (MD)
+	•	60–90s elevator pitch script (MD)
+
+STAR Reflection
+
+S – Situation:
+I needed to improve my interview performance for junior Front-End/React roles, especially around state management and API integration.
+
+T – Task:
+Develop concise, structured answers and a clear elevator pitch aligned to React/React Native, Expo, Redux/Context, REST, and Firebase auth/RTDB.
+
+A – Action:
+I created an answer bank using the STAR pattern, rehearsed a 75-second pitch (present-past-future), and recorded two practice sessions. I updated my CV to highlight concrete outcomes (e.g., UI responsiveness, DX improvements with ESLint/Prettier).
+
+R – Result:
+Mock ratings improved from 6/10 to 8.5/10 for “clarity” and “technical depth.” I can now explain Redux vs Context trade-offs and API error handling with practical examples from Plum Systems.
+
+⸻
+
+📁 8. Mock Interview
+
+Evidence
+	•	Mock interview recording (MP4)
+	•	Rubric/score sheet (PNG/PDF)
+	•	Self-critique & improvement plan (MD)
+
+STAR Reflection
+
+S – Situation:
+In a recorded mock interview for a React/React Native role, I struggled to frame trade-off decisions (e.g., Redux vs Context + useReducer).
+
+T – Task:
+Demonstrate structured problem-solving and articulate architectural decisions with examples.
+
+A – Action:
+I reviewed the recording and timestamped weak answers. I rewrote responses to:
+	•	Explain when Redux is ideal (complex global state, predictable flows, middleware).
+	•	Explain when Context/useReducer is enough (lightweight, localised state).
+I added a concrete example from integrating a Firebase-backed notifications panel and an Expo build pipeline consideration.
+
+R – Result:
+Second mock improved from 65% → 85%. Feedback commended “clear trade-off reasoning” and “linking answers to real project scenarios.”
+
+⸻
+
+📁 9. Professional Networking
+
+Evidence
+	•	LinkedIn profile PDF export (PDF)
+	•	Outreach messages to React/Expo engineers (MD with screenshots)
+	•	Informational interview notes (MD)
+
+STAR Reflection
+
+S – Situation:
+I wanted guidance on Expo 53, CI/CD, and Firebase Cloud Functions to speed up debugging and builds at Plum Systems.
+
+T – Task:
+Grow a relevant network and secure at least two informational interviews with React/Expo engineers.
+
+A – Action:
+I optimised my LinkedIn headline (“Front-End/React & React Native – Expo | Firebase | REST”), posted a short project highlight with GIFs, and sent targeted outreach (3-line message + clear ask). I prepared 6 focused questions (CI/CD choices, EAS, Over-the-Air updates, testing).
+
+R – Result:
+I secured 3 calls, received a sample EAS config, and learned a quicker release checklist. I implemented one suggestion (separate staging channel builds), which reduced my test feedback loop by ~25%.
+
+⸻
+
+📁 10. Workplace Etiquette
+
+Evidence
+	•	Team norms & code style doc (MD/PDF)
+	•	Stand-up cadence + progress notes (PNG/PDF)
+	•	PR template screenshot (PNG)
+
+STAR Reflection
+
+S – Situation:
+Our team needed consistent etiquette for code collaboration—PR hygiene, commit messages, and meeting etiquette—while working hybrid.
+
+T – Task:
+Improve reliability and reduce friction in reviews and handovers.
+
+A – Action:
+I adopted the team’s PR template, wrote clear commit messages, responded to comments within 24 hours, and summarised daily progress in stand-up using a “Yesterday/Today/Risks” format. I also followed meeting etiquette (on-time join, agenda, actions).
+
+R – Result:
+PR turnaround time improved from ~3 days to <48 hours, and merge conflicts decreased on shared components. Feedback from my mentor highlighted “professional communication and preparedness.”
