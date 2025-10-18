@@ -187,13 +187,13 @@ Implement reliable **data fetching** and error handling to reduce API-related cr
 - Used **Axios** with async/await to handle API calls cleanly.  
 - Implemented global error handling with toast notifications and fallback UIs.  
 - Created functions for cleaner service layer code.  
-- Worked with backend developers to document endpoints clearly.
+- Worked with backend developers.
 
 **R – Result:**  
 Reduced API call failures seen by users, improved data loading speed, and improved the debugging process. Error reporting became standardized across screens.
 
 	
-### *60–90s elevator pitch script (MD)*
+### *60–90s elevator pitch script*
 ## 🎤 Elevator Pitch (75 seconds)
 
 **Present:**  
@@ -336,7 +336,7 @@ Grow a relevant network and secure at least 1 interview with a company.
 I optimised my LinkedIn headline (“Front-End/React & React Native – Expo | Firebase | REST”) and sent targeted outreach. I prepared  questions focused on my interest in the companies and the various roles they have.
 
 **R – Result:**
-I secured 4 interviews overall, received feedback on how to better answer questions on my initial interviews. I implemented the suggestions, and on the last 2 interviews, I passed the first phase and made it to the technical coding interviews. 
+I secured 4 interviews overall, received feedback on how to better answer questions in my initial interviews. I implemented the suggestions, and on the last 2 interviews, I passed the first phase and made it to the technical coding interviews. 
 
 ## 📁 10. Workplace Etiquette
 
