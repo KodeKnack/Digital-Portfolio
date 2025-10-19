@@ -245,7 +245,6 @@ Independently identify and fix these issues without slowing down the sprint or d
 - Diagnosed mismatched or missing dependencies as the primary cause.  
 - Used `yarn install` to align dependencies with the project configuration.  
 - Debugged rendering issues by inspecting components, checking responsiveness, and using browser dev tools.  
-- Fixed a specific validation issue where the enquiry form required a phone number even when an email was provided.  
 - Thoroughly tested changes on multiple devices before pushing updates.
 
 **R – Result:**  
@@ -262,7 +261,6 @@ Clearly communicate the technical constraint and propose a practical solution th
 **A – Action:**  
 - Reviewed the validation logic to understand the restriction.  
 - Explained the conflict between the existing setup and user expectations to the team lead.  
-- Proposed a flexible validation rule allowing either a valid email or phone number.  
 - Maintained communication through Git comments and team discussions before implementing.  
 - Thoroughly tested the fix to ensure no regressions.
 
