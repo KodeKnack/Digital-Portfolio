@@ -135,13 +135,13 @@ https://github.com/KodeKnack/Digital-Portfolio/blob/main/Testing%20Outcomes.pdf
 ### STAR Reflection
 
 **S – Situation:**
-During my internship at Plum Systems, we had a compressed sprint to release a React Native feature built with Expo. Misunderstandings about scope caused rework and risk to the release.
+During my internship at Plum Systems, we had a compressed sprint to release a React Native feature built with Expo.
 
 **T – Task:**
 Clarify scope, align stakeholders (PM, backend, QA), and communicate a single source of truth to reduce churn.
 
 **A – Action:**
-I drafted a concise acceptance criteria, and handed over, and during stand-up I updated the team to confirm tasks and timelines.
+I drafted a concise acceptance criteria, and handed it over, and during stand-up, I updated the team to confirm tasks and timelines.
 
 **R – Result:**
 We reduced back-and-forth messages, QA passed on the first round issue ticket, and the release shipped on time. I adopted the same approach and template for future sprints.
